@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "firstName": "Aarav",
+    "lastName": "Sharma",
+    "email": "aarav.sharma001@gmail.com",
+    "phone": "+91-98765-43210"
+  },
+  {
+    "id": 2,
+    "firstName": "Diya",
+    "lastName": "Kapoor",
+    "email": "diya.kapoor002@gmail.com",
+    "phone": "+91-90123-45678"
+  },
+  {
+    "id": 3,
+    "firstName": "Vihaan",
+    "lastName": "Reddy",
+    "email": "vihaan.reddy003@gmail.com",
+    "phone": "+91-99887-77665"
+  },
+  {
+    "id": 4,
+    "firstName": "Ananya",
+    "lastName": "Iyer",
+    "email": "ananya.iyer004@gmail.com",
+    "phone": "+91-91234-56789"
+  },
+  {
+    "id": 5,
+    "firstName": "Kabir",
+    "lastName": "Mehta",
+    "email": "kabir.mehta005@gmail.com",
+    "phone": "+91-92345-67890"
+  },
+  {
+    "id": 6,
+    "firstName": "Saanvi",
+    "lastName": "Ghosh",
+    "email": "saanvi.ghosh006@gmail.com",
+    "phone": "+91-93456-78901"
+  },
+  {
+    "id": 7,
+    "firstName": "Arjun",
+    "lastName": "Verma",
+    "email": "arjun.verma007@gmail.com",
+    "phone": "+91-94567-89012"
+  },
+  {
+    "id": 8,
+    "firstName": "Ishita",
+    "lastName": "Bose",
+    "email": "ishita.bose008@gmail.com",
+    "phone": "+91-95678-90123"
+  },
+  {
+    "id": 9,
+    "firstName": "Rahul",
+    "lastName": "Nair",
+    "email": "rahul.nair009@gmail.com",
+    "phone": "+91-96789-01234"
+  },
+  {
+    "id": 10,
+    "firstName": "Meera",
+    "lastName": "Singh",
+    "email": "meera.singh010@gmail.com",
+    "phone": "+91-97890-12345"
+  }
+]
+
