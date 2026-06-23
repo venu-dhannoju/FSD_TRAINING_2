@@ -7,6 +7,9 @@ function Student() {
     ];
 
     return (
+        <div>
+
+        <h1>welcome</h1>
         <table border="1">
             <thead>
                 <tr>
@@ -27,6 +30,8 @@ function Student() {
                 ))}
             </tbody>
         </table>
+        </div>
+        
     );
 }
 

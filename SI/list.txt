@@ -1,0 +1,4 @@
+longest prefic suffix si
+longest substring palindrome
+strong number si
+recursions fib fact number=>binary

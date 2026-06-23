@@ -8,6 +8,7 @@ function Count() {
         <button onClick={()=>setCount((count)=>count-1)}>-</button>
         <button onClick={()=>setCount((count)=>0)}>reset</button>
         <button onClick={()=>setCount((count)=>count+1)}>+</button>
+
     </div>
   );
 }
